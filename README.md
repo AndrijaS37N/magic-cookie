@@ -1,4 +1,4 @@
-# magic-cookie
+# magic-cookie 🍪
 ### A Java RESTful web service.
 
 * An online system for an imaginary bakery.
