@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 5, 2019, 4:49:10 PM
+    Author     : andrijadjuric
+*/
+
+/* Note: Basic frontend stuff. */
+
+html, body {
+    overflow-x: hidden;
+    background-color: whitesmoke;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar-default {
+    border-bottom: 0px;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #222;
+    border-color: #bfbfbf;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+    border: 0px;
+}
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+#footer_class {
+    margin-left: -17px;
+    background-color: white;
+    padding: 0;
+}
+
+#footer_class p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    line-height: 17.7px;
+    padding-top: 10px;
+}
+
+#footer_class hr {
+    margin: 0;
+    padding: 0;
+    padding-top: 2px;
+    border-color: grey;
+}
+
+#connections {
+    padding-bottom: 2px;
+}
+
+p {
+    font-family: "Helvetica Condensed Light", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 18.2px;
+}
+
+.bg { 
+    background-image: url("../images/cookies_1.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#picture_text_upper {
+    margin-top: 80px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    color: white;
+    /*    -webkit-text-stroke: 1px black;*/
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#picture_text_lower {
+    margin-top: 25px;
+    margin-bottom: 80px;
+    font-size: 40px;
+    color: white;
+    /*    -webkit-text-stroke: 1px black;*/
+    text-shadow: 2px 2px 4px #000000;
+}
