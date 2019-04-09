@@ -15,7 +15,7 @@ Using:
 1. Backbone.js
 1. Twitter Bootstrap 
 
-Just a basic frontend side for the RESTful web services.
+Just a basic front end side for the RESTful web services. I kinda like the UI.
 
 ## magic-cookie-services
 The back end, server side of the system. Amalgam of entity classes, facade and facade REST classes for the persistence of the system.
